@@ -7,4 +7,4 @@ Se elaboraron los siguientes items para presentar la idea:
 Wireframe: https://www.figma.com/proto/biECoxW5SLeWZNzxx7QZTY/Prototipo-ExperiFan
 Contrato: https://testnet.snowtrace.io/nft/0x7c1Dd86033478949c405ED96391e44A95aD5eD53/3?chainId=43113#metadata
 
-Además, se creo y desplego en la Subnet con el siguiente RPC
+Además, se creo una subnet donde se desplego el contrato
