@@ -5,7 +5,7 @@ Proposito: Nosotros planteamos una plataforma que revoluciona la industria music
 
 Se elaboraron los siguientes items para presentar la idea:
 Wireframe: https://www.figma.com/proto/biECoxW5SLeWZNzxx7QZTY/Prototipo-ExperiFan
-Contrato Avalanche: https://testnet.snowtrace.io/nft/0x7c1Dd86033478949c405ED96391e44A95aD5eD53/3?chainId=43113#metadata
+Contrato Avalanche: https://testnet.snowtrace.io/nft/0x7c1Dd86033478949c405ED96391e44A95aD5eD53/3?chainId=43113#metadata (Se creo una subnet donde se desplego el contrato)
 Contrato Soneium: https://explorer-testnet.soneium.org/address/0x991d469a228392B5D77EAA375482934272Be9378
 
-Además, se creo una subnet donde se desplego el contrato
+
